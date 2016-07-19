@@ -78,3 +78,15 @@ margin-top: 10px;
 display: block;
 margin-top: 10px;
 }
+.the-host .thumb-pad5{
+	border-bottom: none;
+}
+
+.photos .thumb-pad0 figure .box{
+	min-height: 0px;
+	text-align: left;
+}
+
+.photos .thumb-pad0 figure .box .title{
+	font: 900 30px/30px 'Century Gothic';
+}
